@@ -1,0 +1,22 @@
+.first-class {
+    background-color: salmon;
+    font-size: 15px;
+
+}
+
+#first-id {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cooler-class {
+    background-color: salmon;
+    font-size: 25px;
+
+}
+#second-id {
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: lightgreen;
+}
